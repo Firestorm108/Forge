@@ -6,7 +6,7 @@ The first day! I researched extensively about CNC routers and mills, as well as 
 
 ![2025-06-21 17-30](https://github.com/user-attachments/assets/deb40a9f-2c2b-439e-8a37-67753f4ac6d7)
 
-After that, I started working on the CAD. I added the 2020 aluminum extrusions and made a joiner plate. The extrusions were 200mm long and I went with them over the 2040s due to the rigidity increase probably being overkill as well as it getting significantly bigger.
+After that, I started working on the CAD. I added the 2020 aluminum extrusions and made a joiner plate. The extrusions were 200mm long and I went with them over the 2040s due to the rigidity increase probably being overkill as well as it getting significantly bigger. I also realized that I would need an M5 tap to be able to join the extrusions well which is fun.
 
 ![CleanShot 2025-06-21 at 22 16 47@2x](https://github.com/user-attachments/assets/4b2dd396-3afc-43d2-b7f2-ad19d4948def)
 
