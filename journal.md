@@ -11,3 +11,11 @@ After that, I started working on the CAD. I added the 2020 aluminum extrusions a
 ![CleanShot 2025-06-21 at 22 16 47@2x](https://github.com/user-attachments/assets/4b2dd396-3afc-43d2-b7f2-ad19d4948def)
 
 Time Spent: 5 Hours
+
+<h1>June 23</h1>
+HUGE amounts of work were put into the CAD and overall design today!!!
+I finished almost the entire Y axis. All that's needed left is the mount for the stepper motor and the bed itself!
+Overall I'm really proud of how clean and sturdy it looks right now and how much progress I got done.
+
+![CleanShot 2025-06-23 at 21 38 19](https://github.com/user-attachments/assets/d60d5706-9164-4fa0-93e1-b3a22f9f0eae)
+ Time Spent: 6 Hours
