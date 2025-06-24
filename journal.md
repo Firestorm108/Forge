@@ -17,5 +17,9 @@ HUGE amounts of work were put into the CAD and overall design today!!!
 I finished almost the entire Y axis. All that's needed left is the mount for the stepper motor and the bed itself!
 Overall I'm really proud of how clean and sturdy it looks right now and how much progress I got done.
 
-![CleanShot 2025-06-23 at 21 38 19](https://github.com/user-attachments/assets/d60d5706-9164-4fa0-93e1-b3a22f9f0eae)
+
+![CleanShot 2025-06-23 at 21 51 50](https://github.com/user-attachments/assets/556738cd-263e-437d-b0b6-bafc06d35bf2)
+
+
+
  Time Spent: 6 Hours
