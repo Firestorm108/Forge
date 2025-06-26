@@ -23,3 +23,12 @@ Overall I'm really proud of how clean and sturdy it looks right now and how much
 
 
  Time Spent: 6 Hours
+
+<h1>June 25</h1>
+The entire Y-axis was finished today!!! I thought this finishing part would be easy, but I had to make a few adjustments to get it to fit together nicely. First, I replaced the upper 3d printed parts with extrusions to make it stronger. I then made the stepper motor mount (and made it level with the ground so there would be zero flex, and rigidity would increase). After that, I polished up the whole thing to fit a bit better and added corner brackets and moved things around a bit. Finally, I finished up by making the bed which has M6 threads spread out evenly so I can use a thumbscrew clamp system to hold down the PCB being machined no matter the size.
+
+![CleanShot 2025-06-25 at 21 32 42](https://github.com/user-attachments/assets/1484dcd2-25c5-4e78-af2e-c4b670d401f9)
+
+
+
+![CleanShot 2025-06-25 at 21 32 54](https://github.com/user-attachments/assets/3df43df1-9e30-4986-ad00-1a1406082168)
