@@ -32,3 +32,5 @@ The entire Y-axis was finished today!!! I thought this finishing part would be e
 
 
 ![CleanShot 2025-06-25 at 21 32 54](https://github.com/user-attachments/assets/3df43df1-9e30-4986-ad00-1a1406082168)
+
+Time Spent: 5 Hours
