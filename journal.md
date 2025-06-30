@@ -34,3 +34,10 @@ The entire Y-axis was finished today!!! I thought this finishing part would be e
 ![CleanShot 2025-06-25 at 21 32 54](https://github.com/user-attachments/assets/3df43df1-9e30-4986-ad00-1a1406082168)
 
 Time Spent: 5 Hours
+
+<h1>June 29</h1>
+Turns out I forgot to add limit switches so the y-axis wasn't actually finished until TODAY. It was kinda hard visualizing all the mechanisms but it should all be good now. I started work on the upper part as well. It seems like the router might be a mill due to it looking like it will be very rigid.
+
+![CleanShot 2025-06-29 at 17 18 59](https://github.com/user-attachments/assets/ca3197e0-643e-4453-b912-f81abc21ac95)
+
+Time Spent: 5 Hours
