@@ -53,3 +53,10 @@ Today I made the base of the y-axis without doing any of the mounting and stuff,
 
 Total Time Spent: 3 Hours
 
+
+<h1>July 28th</h1>
+
+Started off the day by adding the supports and ballscrew nut/housing as well as adjusting the whole thing.
+<img width="835" height="691" alt="CleanShot 2025-07-28 at 10 20 57" src="https://github.com/user-attachments/assets/5beca90c-1cb1-4e9c-913f-2d2b76348c88" />
+
+
