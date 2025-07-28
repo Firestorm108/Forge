@@ -41,3 +41,15 @@ Turns out I forgot to add limit switches so the y-axis wasn't actually finished 
 ![CleanShot 2025-06-29 at 17 18 59](https://github.com/user-attachments/assets/ca3197e0-643e-4453-b912-f81abc21ac95)
 
 Time Spent: 5 Hours
+
+<h1>July 27th</h1>
+
+After finishing various other highway projects and going to Undercity, I've changed the entire scope of this project. It's still going to be a PCB Mill, but I want it to be small, and rigid enough to do aluminum as well. Today I've scoped out new parts, including a 500W spindle and ballscrews. I've upgraded every single part of this from the nema 17 steppers to the nema 23 steppers, from 3D printed parts to aluminum machined parts. I estimate the whole thing would cost around $750, however, I think I will be able to whittle it down. 
+
+<img width="888" height="523" alt="CleanShot 2025-07-28 at 10 01 04" src="https://github.com/user-attachments/assets/b42eb826-c134-4d5a-abef-e61ad6d9cddb" />
+
+
+Today I made the base of the y-axis without doing any of the mounting and stuff, but it's looking decent (and finally rigid)
+
+Total Time Spent: 3 Hours
+
