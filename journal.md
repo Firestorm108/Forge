@@ -60,3 +60,9 @@ Started off the day by adding the supports and ballscrew nut/housing as well as 
 <img width="835" height="691" alt="CleanShot 2025-07-28 at 10 20 57" src="https://github.com/user-attachments/assets/5beca90c-1cb1-4e9c-913f-2d2b76348c88" />
 
 
+
+Added lots of mounting plates in order to keep the rigidity levels high- using a bunch of 2020 extrusions was a LOT cheaper than using stuff like 2080s, etc. I was able to find a deal at around $2.2 per 300mm 2020 extrusion, which is really good in 10 packs.
+
+
+<img width="721" height="501" alt="CleanShot 2025-07-28 at 11 12 31" src="https://github.com/user-attachments/assets/a4815c66-6e77-4ca4-9a34-98ff7847209e" />
+<img width="730" height="240" alt="CleanShot 2025-07-28 at 11 12 36" src="https://github.com/user-attachments/assets/d6791747-3af5-47e9-bbe5-cbc5b713cdfc" />
