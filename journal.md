@@ -80,3 +80,9 @@ I finished up the entire y-axis, with the fixture plate, mounts, adding more ext
 
 <img width="724" height="581" alt="CleanShot 2025-07-29 at 11 01 07" src="https://github.com/user-attachments/assets/dadb33aa-4862-4733-8872-a1f22e33bf89" />
 
+<img width="786" height="722" alt="CleanShot 2025-07-29 at 15 59 13" src="https://github.com/user-attachments/assets/1fa2a810-f08f-4996-baa1-3a5708725bd1" />
+
+
+Took ages to add all the support but im ready to implement the movement system in here.
+
+
