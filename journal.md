@@ -66,3 +66,9 @@ Added lots of mounting plates in order to keep the rigidity levels high- using a
 
 <img width="721" height="501" alt="CleanShot 2025-07-28 at 11 12 31" src="https://github.com/user-attachments/assets/a4815c66-6e77-4ca4-9a34-98ff7847209e" />
 <img width="730" height="240" alt="CleanShot 2025-07-28 at 11 12 36" src="https://github.com/user-attachments/assets/d6791747-3af5-47e9-bbe5-cbc5b713cdfc" />
+
+Eventually I finished  all the mounts, layout, etc. Which took a lot longer than expected. But it looks solid and rigid, as well as being actually precise.
+
+<img width="1886" height="1072" alt="CleanShot 2025-07-29 at 00 17 30@2x" src="https://github.com/user-attachments/assets/ab5cc0d8-3bcc-4879-bae8-d3d14276a4cd" />
+
+Total Time Spent: 5 Hours
