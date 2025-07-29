@@ -71,4 +71,4 @@ Eventually I finished  all the mounts, layout, etc. Which took a lot longer than
 
 <img width="1886" height="1072" alt="CleanShot 2025-07-29 at 00 17 30@2x" src="https://github.com/user-attachments/assets/ab5cc0d8-3bcc-4879-bae8-d3d14276a4cd" />
 
-Total Time Spent: 5 Hours
+Total Time Spent: 4 Hours
