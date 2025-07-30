@@ -90,12 +90,16 @@ I actually made two different designs for the x-axis but I settled on the photo 
 <img width="892" height="616" alt="CleanShot 2025-07-30 at 00 05 08" src="https://github.com/user-attachments/assets/204ad98a-0e24-45f9-98bc-5cf97312045c" />
 
 
-It's almost done! I think I'm gonna finish it tomorrow morning!
+It's almost done! I think I'm gonna finish it tomorrow morning.
 
 <img width="887" height="706" alt="CleanShot 2025-07-30 at 00 16 18" src="https://github.com/user-attachments/assets/9471d45a-350a-4bb5-b6ca-1a5cbae5686d" />
 
 
 Time Spent: 6 Hours
 
+<h1> July 30</h1>
+
+Today I almost finished the whole x axis except I'm thinking through how to mount the motor, I'm really not quite sure but everything else on the x-axis is mounted and designed correctly so far.
+<img width="788" height="725" alt="CleanShot 2025-07-30 at 09 19 38" src="https://github.com/user-attachments/assets/c587634c-e859-479d-a228-d62fa52079c2" />
 
 
