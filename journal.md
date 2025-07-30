@@ -117,3 +117,6 @@ I finished everything.. I think. Now time for power, wiring, etc. The mill itsel
 <img width="722" height="696" alt="CleanShot 2025-07-30 at 15 15 34" src="https://github.com/user-attachments/assets/51ae6113-1136-43b7-a77f-230ee2912b2c" />
 
 <img width="788" height="679" alt="CleanShot 2025-07-30 at 15 15 40" src="https://github.com/user-attachments/assets/a755e7c9-7682-4fe3-9d60-455bfe4cd31f" />
+
+
+I cleaned up and finished the BOM which once I added up the prices I was horrified. It should be fine, though.
