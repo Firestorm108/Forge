@@ -111,3 +111,9 @@ Completely finished the x axis and added the z axis! All that's left is mounting
 
 <img width="936" height="771" alt="CleanShot 2025-07-30 at 13 13 57" src="https://github.com/user-attachments/assets/6a726571-5e89-434e-bcd4-b340bf03d605" />
 
+I finished everything.. I think. Now time for power, wiring, etc. The mill itself is looking insanee tho.
+<img width="722" height="696" alt="CleanShot 2025-07-30 at 15 15 21" src="https://github.com/user-attachments/assets/31e65e43-ecf9-4d99-8cff-520ae46c4362" />
+
+<img width="722" height="696" alt="CleanShot 2025-07-30 at 15 15 34" src="https://github.com/user-attachments/assets/51ae6113-1136-43b7-a77f-230ee2912b2c" />
+
+<img width="788" height="679" alt="CleanShot 2025-07-30 at 15 15 40" src="https://github.com/user-attachments/assets/a755e7c9-7682-4fe3-9d60-455bfe4cd31f" />
