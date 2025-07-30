@@ -85,4 +85,9 @@ I finished up the entire y-axis, with the fixture plate, mounts, adding more ext
 
 Took ages to add all the support but im ready to implement the movement system in here.
 
+I actually made two different designs for the x-axis but I settled on the photo below because it was the least pricy and most rigid. I was originally going to use custom milled plates but I realized it's just not worth it. This took me the whole day unsurprisingly (making a rigid mill is HARD) but I'm super excited to start milling aluminum, brass, and copper on this thing!
+
+<img width="892" height="616" alt="CleanShot 2025-07-30 at 00 05 08" src="https://github.com/user-attachments/assets/204ad98a-0e24-45f9-98bc-5cf97312045c" />
+
+
 
