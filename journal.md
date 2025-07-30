@@ -102,4 +102,8 @@ Time Spent: 6 Hours
 Today I almost finished the whole x axis except I'm thinking through how to mount the motor, I'm really not quite sure but everything else on the x-axis is mounted and designed correctly so far.
 <img width="788" height="725" alt="CleanShot 2025-07-30 at 09 19 38" src="https://github.com/user-attachments/assets/c587634c-e859-479d-a228-d62fa52079c2" />
 
+Luckily I solved that problem. And without 3d printed parts too (that would be bad)
+
+<img width="736" height="382" alt="CleanShot 2025-07-30 at 09 46 27" src="https://github.com/user-attachments/assets/3189eac6-759b-48d0-af65-0c4ad493a3d7" />
+
 
