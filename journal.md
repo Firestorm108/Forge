@@ -107,3 +107,7 @@ Luckily I solved that problem. And without 3d printed parts too (that would be b
 <img width="736" height="382" alt="CleanShot 2025-07-30 at 09 46 27" src="https://github.com/user-attachments/assets/3189eac6-759b-48d0-af65-0c4ad493a3d7" />
 
 
+Completely finished the x axis and added the z axis! All that's left is mounting the spindle clamp to the rails/nut. It's looking really nice, building this is gonna be a blast.
+
+<img width="936" height="771" alt="CleanShot 2025-07-30 at 13 13 57" src="https://github.com/user-attachments/assets/6a726571-5e89-434e-bcd4-b340bf03d605" />
+
