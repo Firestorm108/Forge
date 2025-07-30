@@ -90,4 +90,12 @@ I actually made two different designs for the x-axis but I settled on the photo 
 <img width="892" height="616" alt="CleanShot 2025-07-30 at 00 05 08" src="https://github.com/user-attachments/assets/204ad98a-0e24-45f9-98bc-5cf97312045c" />
 
 
+It's almost done! I think I'm gonna finish it tomorrow morning!
+
+<img width="887" height="706" alt="CleanShot 2025-07-30 at 00 16 18" src="https://github.com/user-attachments/assets/9471d45a-350a-4bb5-b6ca-1a5cbae5686d" />
+
+
+Time Spent: 6 Hours
+
+
 
