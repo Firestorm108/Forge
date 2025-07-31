@@ -128,3 +128,12 @@ Finished up the wiring diagram!
 
 <img width="826" height="760" alt="CleanShot 2025-07-30 at 18 32 04" src="https://github.com/user-attachments/assets/f4b62b99-9ac1-4305-8fea-ae1d379cc1ad" />
 
+
+I spent a good while rendering, I don't wanna spam the journal with all 50 renders but I'll put a couple random ones in.
+
+
+
+
+
+<img width="1504" height="724" alt="Assembly_2025-Jul-31_03-01-58AM-000_CustomizedView36598584172" src="https://github.com/user-attachments/assets/24404384-f7d0-4730-a49e-938fe208efb9" />
+<img width="1504" height="724" alt="shot2" src="https://github.com/user-attachments/assets/525b736e-1723-4cff-8476-9a625309ee7a" />
