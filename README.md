@@ -13,3 +13,7 @@ I designed Forge due to my constant draw towards new materials that I've always 
 <img width="1504" height="724" alt="9d7d0436-c638-43ec-88ce-5f6a4a60112a" src="https://github.com/user-attachments/assets/72c26490-8513-4cd4-a823-6e139f83ee44" />
 
 <img width="1504" height="724" alt="Assembly_2025-Jul-31_03-01-58AM-000_CustomizedView36598584172" src="https://github.com/user-attachments/assets/1b1f747a-a330-4405-8a62-1ce8a5de0589" />
+
+<img width="1504" height="724" alt="Assembly_2025-Jul-31_03-04-15AM-000_CustomizedView7897879160" src="https://github.com/user-attachments/assets/bdbfe6a9-4074-484e-a55f-eaabce14d197" />
+
+<img width="787" height="746" alt="CleanShot 2025-07-30 at 20 17 38" src="https://github.com/user-attachments/assets/bc563c4c-ab4e-4cfd-994b-49dd9b179e70" />
