@@ -81,4 +81,4 @@ I designed Forge due to my constant draw towards new materials that I've always 
 
 ---
 
-**💰 Total Estimated Cost: `$816`**
+**Total Estimated Cost: `$816`**
