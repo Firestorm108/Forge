@@ -120,3 +120,11 @@ I finished everything.. I think. Now time for power, wiring, etc. The mill itsel
 
 
 I cleaned up and finished the BOM which once I added up the prices I was horrified. It should be fine, though.
+
+
+
+Finished up the wiring diagram!
+
+
+<img width="826" height="760" alt="CleanShot 2025-07-30 at 18 32 04" src="https://github.com/user-attachments/assets/f4b62b99-9ac1-4305-8fea-ae1d379cc1ad" />
+
