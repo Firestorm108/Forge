@@ -16,7 +16,8 @@ I designed Forge due to my constant draw towards new materials that I've always 
 
 <img width="1504" height="724" alt="Assembly_2025-Jul-31_03-04-15AM-000_CustomizedView7897879160" src="https://github.com/user-attachments/assets/bdbfe6a9-4074-484e-a55f-eaabce14d197" />
 
-<img width="787" height="746" alt="CleanShot 2025-07-30 at 20 17 38" src="https://github.com/user-attachments/assets/bc563c4c-ab4e-4cfd-994b-49dd9b179e70" />
+<img width="564" height="547" alt="CleanShot 2025-07-30 at 21 09 23" src="https://github.com/user-attachments/assets/ea51b62a-bf81-4be1-bacc-59eafd64c858" />
+
 
 
 # CNC Mill Parts List
