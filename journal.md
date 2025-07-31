@@ -1,3 +1,13 @@
+---
+title: "Forge"
+author: "Sidd"
+description: "Mini CNC Mill"
+created_at: "2025-06-21"
+total_time: "46 Hours"
+---
+
+
+
 <h1>Summary</h1>
 A rigid, reliable PCB router that can mill copper clad. Its 775 spindle motor serves this function well, however it can also perform other tasks such as cutting softer materials and engraving metals if necessary. 
 
@@ -130,6 +140,10 @@ Finished up the wiring diagram!
 
 
 I spent a good while rendering, I don't wanna spam the journal with all 50 renders but I'll put a couple random ones in.
+
+Finished up the BOM, Readme, etc. The final journal entry, as the project is now finished.
+
+Time Spent: 12 Hours
 
 
 
