@@ -9,7 +9,9 @@ total_time: "46 Hours"
 
 
 <h1>Summary</h1>
-A rigid, reliable PCB router that can mill copper clad. Its 775 spindle motor serves this function well, however it can also perform other tasks such as cutting softer materials and engraving metals if necessary. 
+A rigid, reliable miniature CNC mill that can work with many types of materials such as copper-clad FR4, wood, aluminum, brass, and copper. It has robust features such as NEMA 23 steppers, a 500W BLDC spindle, 20mm thick fixture plate, ballscrews and linear rails.
+
+# Side Note: Initially this was going to be ONLY a PCB Router, however midway I wanted to expand its functions
 
 <h1>June 21</h1>
 The first day! I researched extensively about CNC routers and mills, as well as their functions because a CNC router is the basis for a PCB router. Turns out there are a lot of parts to a CNC router. First, I decided whether to use a moving gantry or a moving bed. In this case, I opted for the moving bed due to its higher rigidity. And so, I got to work researching the basic parts such as the 24V power supply, the brushless fan for cooling, the SKR mini v3 board, a Genmitsu 775 spindle motor, and the 2004s1 stepper motors. I was thinking of adding a screen or a small control panel later on after the minimal viable product was complete. Other hardware parts included the linear rails, lead screws, extrusions, filament type, bed type, and thumbscrews. I decided to go with a 200mmx200mm bed size as that would be plenty for PCBs and it would also stay quite compact.
