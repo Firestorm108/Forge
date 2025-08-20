@@ -1,6 +1,6 @@
 # Forge - CNC Mill
 
-Forge is a mini CNC mill that is capable of milling metals such as aluminum, brass, and copper as well as doing amazing on copper-clad FR4. It fires on all pistons, with an all-steel/aluminum build (not a single 3D-printed part!), ultra-rigid build, 500W BLDC spindle, high-torque NEMA 23 stepper motors, a 20mm thick aluminum fixture plate, ballscrews, linear rails, and limit switches!
+Forge is a mini CNC mill that is capable of milling metals such as aluminum, brass, and copper as well as doing amazing on copper-clad FR4. It fires on all pistons, with an all-steel/aluminum build (not a single 3D-printed part!), ultra-rigid build, 800W BLDC spindle, high-torque NEMA 23 stepper motors, a 20mm thick aluminum fixture plate, ballscrews, linear rails, and limit switches!
 
 The machine aims to push the boundaries of at-home milling, from copper-clad FR4 to thick pieces of aluminum. 
 
