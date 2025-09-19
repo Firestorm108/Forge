@@ -4,7 +4,7 @@ Forge is a mini CNC mill that is capable of milling metals such as aluminum, bra
 
 The machine aims to push the boundaries of at-home milling, from copper-clad FR4 to thick pieces of aluminum. 
 
-I designed Forge due to wanting myself and others to have access to new parts and materials; PCBs, aluminum, and brass. This was in addition to my constant draw towards new materials that I've always wanted to use in projects. Stuff like plexiglass and wood as well! I wanted to expand my material selection further by adding aesthetic, cheap, and structural materials. However, I want this machine to become a great PCB mini factory. Trying to implement features such as automated vias would be a cool challenge and I want to keep on upgrading it until it is able to create complex boards! As well as this, I wanted a precise machine that I designed myself, to be powerful, useful, and sleek. 
+I designed Forge due to wanting myself and others to have access to new parts and materials; PCBs, aluminum, and brass. This was in addition to my constant draw towards new materials that I've always wanted to use in projects. Stuff like plexiglass and wood as well! I wanted to expand my material selection further by adding aesthetic, cheap, and structural materials. However, I want this machine to become a great PCB mini factory. Trying to implement features such as automated vias would be a cool challenge and I want to keep on upgrading it until it is able to create complex boards! As well as this, I wanted a precise machine that I designed myself, to be both powerful and useful.
 
 # Pictures
 
